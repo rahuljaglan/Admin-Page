@@ -14,7 +14,4 @@ To run the production version of the app
 
 ### `npm run build`
 
-<p align="center">
-  <img src=""D:\Web dev\Admin  dashboard\Home.png"" width="350" title="home">
-  <img src=""D:\Web dev\Admin  dashboard\product.png"" width="350" alt="user">
-</p>
+![](images/Home.png)
