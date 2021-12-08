@@ -16,4 +16,4 @@ To run the production version of the app
 
 ![](images/Home.png)
 ![](images/User.png)
-![](images/Product.png)
+![](images/product.png)
