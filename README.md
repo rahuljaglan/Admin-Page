@@ -13,3 +13,8 @@ You will also see any lint errors in the console.
 To run the production version of the app
 
 ### `npm run build`
+
+<p align="center">
+  <img src="D:\Web dev\Admin  dashboard\Home.png" width="350" title="hover text">
+  <img src="your_relative_path_here_number_2_large_name" width="350" alt="accessibility text">
+</p>
